@@ -1,5 +1,10 @@
 <?php 
 	TRUNCATE `0_areas`;
+	TRUNCATE `0_areas`;hjhjk
+	TRUNCATE `0_areas`;
+	TRUNCATE `0_areas`;
+	TRUNCATE `0_areas`;
+	TRUNCATE `0_areas`;
 	TRUNCATE `0_attachments`;
 	TRUNCATE `0_attendance`;
 	TRUNCATE `0_audit_trail`;
