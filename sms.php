@@ -1,7 +1,5 @@
 <?php
-fdsfs
-asdas
-sdf
+changes in sms
  $id   = get_company_pref('1st4connect_account_id');
  $pass = get_company_pref('1st4connect_account_password');
 
